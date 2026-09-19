@@ -1,0 +1,42 @@
+
+body
+{
+	margin-left: 30px;
+	font-family: Arial;
+	font-size: 18px;
+	line-height: 32px;
+}
+
+h1
+{
+	font-family: Arial;
+	font-size: 40px;
+	line-height: 34px;
+}
+
+a:link {	color: #999999; text-decoration: none; }
+a:visited {	color: #999999; text-decoration: none; }
+a:active {	color: #000000;	text-decoration: none; }
+a:hover {	color: #000000;	text-decoration: none; }
+
+.new-line
+{
+	clear: both;
+}
+
+.title
+{
+	margin-top: 46px;
+}
+
+.app-links
+{
+	margin-top: 0px;
+}
+
+.app-link
+{
+	float: left;
+	height: 35px;
+	font-size: 24px;
+}
